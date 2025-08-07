@@ -18,8 +18,9 @@ Profissão: ${profissao}
 
 Salário base: U$${salario}
 Bônus: U$${bonus}
-Total mensal: U$${salario + bonus}
+Total mensal: U$${totalano}
 Total ano: U$${totalano * 12}
 Total anual: U$${totalano * 12 * 2}
 =========================================
+
 `)
