@@ -4,7 +4,7 @@ let idade = 25
 let cidade = "São Paulo"
 let profissao = "Desenvolvedor de Sistemas"
 let anoatual = 2025
-let anoNascimento = anoatual - idade
+const anoNascimento = anoatual - idade
 
 //Etapa 2
 let salario = 3460.00
@@ -30,3 +30,4 @@ Total anual: U$${totalanual}
 =========================================
 
 `)
+
